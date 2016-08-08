@@ -1,0 +1,37 @@
+_repo: A-Backward-Glance-at-Eighty--13-Recollections--amp--comment_12911
+_version: 0.0.1
+alternative_title: "Backward Glance at 80\r\nRecollections and comment"
+creator:
+  author:
+    agent_name: Murdock, Charles A. (Charles Albert)
+    birthdate: 1841
+    deathdate: 1928
+    gutenberg_agent_id: '4704'
+    url: http://www.gutenberg.org/2009/agents/4704
+description: Charles Albert Murdock (1841-1928) left Massachusetts for California
+  in 1855 with his mother, sister and brother. For many years he was editor of the
+  Pacific Unitarian Magazine and one of the state's most distinguished printers. A
+  backward glance at eighty (1921) begins with Murdock's memories of his trip west
+  and reunion with his father, who had settled in Arcata on the Humboldt River. Murdock
+  recalls life in the town and recounts stories of his father's early years on the
+  Humboldt, the evolution of the region's Republican Party, acquaintance with Bret
+  Harte, the printing business in San Francisco, 1867-1910, and the San Francisco
+  Board of Education.
+gutenberg_issued: '2004-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mines and mineral resources -- California'
+- !lcsh 'Business -- California'
+- !lcc 'F850.5'
+- !lcsh 'Law -- Political aspects -- California'
+- !lcsh 'San Francisco (Calif.)'
+- !lcsh 'Murdock, Charles A. (Charles Albert), 1841-1928'
+- GITenberg
+title: "A Backward Glance at Eighty\r\nRecollections & comment"
+url: http://www.gutenberg.org/ebooks/12911
