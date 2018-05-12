@@ -1,6 +1,9 @@
 _repo: A-Backward-Glance-at-Eighty--13-Recollections--amp--comment_12911
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: "Backward Glance at 80\r\nRecollections and comment"
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Murdock, Charles A. (Charles Albert)
@@ -17,6 +20,8 @@ description: Charles Albert Murdock (1841-1928) left Massachusetts for Californi
   Humboldt, the evolution of the region's Republican Party, acquaintance with Bret
   Harte, the printing business in San Francisco, 1867-1910, and the San Francisco
   Board of Education.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12911#A-Backward-Glance-at-Eighty--13-Recollections--amp--comment
 gutenberg_issued: '2004-07-14'
 gutenberg_type: Text
 identifiers:
